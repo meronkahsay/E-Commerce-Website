@@ -15,8 +15,8 @@ export default function SidebarVoucher() {
    "Health & Beauty",
  ];
  const products = [
-   '/images/hero.png',
-   '/images/hero-watches.avif',
+    '/images/phone.jpg',
+    '/images/phone.jpg',
    '/images/phone.jpg'
  ];
  const [currentIndex, setCurrentIndex] = useState(0);
