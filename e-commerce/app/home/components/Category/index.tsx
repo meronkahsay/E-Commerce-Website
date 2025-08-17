@@ -1,4 +1,4 @@
-import Image from "next/image";
+
 import Button from "@/app/sharedComponents/Button";
 export default function Home() {
   return (
